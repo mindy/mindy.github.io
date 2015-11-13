@@ -438,6 +438,22 @@ h3:after {
   background-image: url(../assets/scripto/screenshot.png);
 }
 
+.campgoogle .device.ipad {
+  padding-top: 32px;
+}
+
+.campgoogle .device:first-child .screenshot {
+  background-image: url(../assets/campgoogle/camp-google-1.png);
+  width: 635px;
+  height: 1900px;
+  top: -100px;
+  background-size: 100%;
+}
+
+.campgoogle .device.ipad-scroll.wrapper {
+  height: 478px;
+}
+
 .about-me {
     padding: 3em 0;
 }
